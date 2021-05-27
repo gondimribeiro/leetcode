@@ -3,7 +3,7 @@
  *
  * https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
-package lengthlongestsubstring
+package LengthOfLongestSubstring
 
 object Solution {
   def lengthOfLongestSubstring(s: String): Int = {

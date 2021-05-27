@@ -6,7 +6,7 @@
  *
  * https://leetcode.com/problems/add-two-numbers/
  */
-package addtwonumbers
+package AddTwoNumbers
 
 object Solution {
   class ListNode(_x: Int = 0, _next: ListNode = null) {

@@ -4,7 +4,7 @@
  * the same element twice. You can return the answer in any order.
  * https://leetcode.com/problems/two-sum/
  */
-package twosum
+package TwoSum
 
 object Solution extends App {
   def twoSum(nums: Array[Int], target: Int): Array[Int] = {
