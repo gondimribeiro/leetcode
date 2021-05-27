@@ -24,6 +24,7 @@
 */common-etl/project/project/
 */common-etl/project/target/
 */reconciliation/heterogeneous_fixture/target/
+*/worksheet.sc
 
 # Directories for Integration Testing
 # ===
